@@ -34,4 +34,6 @@ janelas, ícones e botões. Apesar disso, foi apenas a partir do ano de 1984, qu
 
 <h3>NUI (Natural User Interface)</h3>
 
-<p>Em meados dos anos 2000, um novo tipo de interface, praticamente invisível e baseado na natureza humana para seu funcionamento foi introduzido. Ela permitiu que o usuário pudesse se comunicar com um máquina usando maneiras mais semelhantes a estas usadas em interações com pessoas ou objetos, sem os métodos intermediários das interfaces anteriores. Atos como o toque, movimentos corporais, expressões faciais e comandos vocais são, então, analisados pelo dispositivo, gerando uma resposta de acordo.</p>
+<p>Em meados dos anos 2000, um novo tipo de interface, praticamente invisível e baseado na natureza humana, foi introduzido. Ela permitiu que o usuário pudesse se comunicar com um máquina usando maneiras mais semelhantes a estas usadas em interações com pessoas ou objetos, sem os métodos intermediários das interfaces anteriores.</p>
+
+<p>Atos como o toque, movimentos corporais, expressões faciais e comandos vocais são, então, analisados pelo dispositivo, gerando uma resposta de acordo. Tecnologias atuais, como smartphones, computadores e as assistentes virtuais utilizam a NUI para o seu funcionamento.</p>
