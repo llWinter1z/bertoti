@@ -29,9 +29,9 @@ janelas, ícones e botões. Apesar disso, foi apenas a partir do ano de 1984, qu
 
 <br>
 
-<h2>E dos anos 80 até 2007?</h2>
+<h2>E de 2007 até agora?</h2>
 
 
 <h3>NUI (Natural User Interface)</h3>
 
-<p></p>
+<p>Em meados dos anos 2000, um novo tipo de interface, praticamente invisível e baseado na natureza humana para seu funcionamento foi introduzido. Ela permitiu que o usuário pudesse se comunicar com um máquina usando maneiras mais semelhantes a estas usadas em interações com pessoas ou objetos, sem os métodos intermediários das interfaces anteriores. Atos como o toque, movimentos corporais, expressões faciais e comandos vocais são, então, analisados pelo dispositivo, gerando uma resposta de acordo.</p>
