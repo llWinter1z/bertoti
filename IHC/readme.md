@@ -1,5 +1,3 @@
-<h1>A TERMINAR</h1>
-
 <h1>Interação Humano-Computador</h1>
 
 <br>
